@@ -7,5 +7,6 @@ Desenvolvendo Foguete em Movimento
 | ----------- | --- |
 | Técnologias | CSS, HTML javaScript
 | IDE         | Replit
+| Link        | https://rocket.brunonavarro.repl.co/
 
 ![](https://raw.githubusercontent.com/Brunonavarrooficial/Rocket-Css/main/Rocket.gif)
